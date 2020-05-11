@@ -9,3 +9,4 @@ for vlan in vlans:
     for device in devices:
         push_commands(device, commands)
         print('\n')
+print("Msizi made some changes")
