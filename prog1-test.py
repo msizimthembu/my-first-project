@@ -1,4 +1,5 @@
 # Msizi Mthembu
+# Updating prog1 on Github
 
 for vlan in vlans:
     id = vlan.get('id')
