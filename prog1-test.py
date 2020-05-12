@@ -1,5 +1,5 @@
 # Msizi Mthembu
-
+# Adding a comment for Git
 for vlan in vlans:
     id = vlan.get('id')
     name = vlan.get('name')
